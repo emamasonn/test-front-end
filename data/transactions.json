@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2020-05-19T20:00:00.000Z",
+        "description": "Mate",
+        "amount": 20,
+        "id": "07e5c46e-0ca6-4178-b288-17b30c481e04"
+    },
+    {
+        "date": "2020-05-19T04:01:00.000Z",
+        "description": "Food ",
+        "amount": -30,
+        "id": "39a22452-cd00-41f3-8268-c2bb363b9c9f"
+    },
+    {
+        "date": "2020-05-19T04:01:00.000Z",
+        "description": "Cookies",
+        "amount": -50,
+        "id": "0b5f4aaa-225e-4595-8fd1-a357c11af3e7"
+    },
+    {
+        "date": "2020-05-20T01:48:00.000Z",
+        "description": "Water",
+        "amount": -10,
+        "id": "5c043979-4755-4916-b23a-499ee1f4ef8f"
+    },
+    {
+        "date": "2020-05-21T00:41:00.000Z",
+        "description": "Yerba",
+        "amount": 200,
+        "id": "f4fb71c6-b6d9-4ab9-925f-e1e15403c76f"
+    },
+    {
+        "date": "2020-05-21T00:41:00.000Z",
+        "description": "asado",
+        "amount": 300,
+        "id": "2d571c73-4749-4f7c-9de4-b330311f93db"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "name": "magoya-frontend-dev-test",
+    "version": "1.0.0",
+    "author": "Magoya",
+    "private": true,
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@material-ui/core": "^4.9.14",
+        "@material-ui/icons": "^4.9.1",
+        "dayjs": "1.8.24",
+        "isomorphic-unfetch": "^3.0.0",
+        "next": "9.3.5",
+        "next-redux-wrapper": "^6.0.0",
+        "react": "16.13.1",
+        "react-dom": "16.13.1",
+        "react-number-format": "^4.4.1",
+        "react-redux": "^7.2.0",
+        "redux": "^4.0.5",
+        "uuid": "7.0.3"
+    },
+    "devDependencies": {
+        "@types/node": "13.11.1",
+        "@types/react": "16.9.34",
+        "@types/uuid": "7.0.2",
+        "typescript": "3.8.3"
+    }
+}
